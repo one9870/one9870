@@ -25,6 +25,8 @@ Certifications</br>
 [![AWS Certification](https://github.com/one9870/one9870/blob/badges/aws-certified-ai-practitioner.png?raw=true)](https://www.credly.com/badges/bb8a9f96-2643-49ad-a7ad-d4319191e1c5/public_url)
 [![AWS Certification](https://github.com/one9870/one9870/blob/main/aws-certified-ai-practitioner-early-adopter.png?raw=true)](https://www.credly.com/badges/cdffde06-7a7c-45ca-847a-8cfe03935d64/public_url)
 
+[![Microsoft Azure AI Fundamentals](https://images.credly.com/size/110x110/images/4136ced8-75d5-4afb-8677-40b6236e2672.png)](https://www.credly.com/badges/80dcec5c-d2cf-444b-9306-27dab14a7bde/public_url)
+
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
