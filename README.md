@@ -11,8 +11,10 @@
 - **OS & Server:** Windows Server, Windows OS, macOS, Linux, Ghost, Docker, Kubernetes
 - **Security:** DDoS Protection, Security Analysis, DHCP Configuration
 - **Cloud:** AWS, Azure, GCP
+- **AI & Data:** AI-assisted Marketing Tools, Conversion Optimization, Google AI Advertising Certifications, Data Analysis, Google Analytics
 - **Programming:** Python, PHP, MySQL
-- **Tools:** MS Office Suite, Google Analytics, Financial Databases
+- **Web Development:** WordPress Site Building & Management
+- **Tools:** MS Office Suite, Google Ads Tools, Search Ads 360, Display & Video 360, Campaign Manager 360, Financial Databases
 - **Soft Skills:** Project Management, Team Coordination, Problem Solving
 
 ### Recent Projects
@@ -47,10 +49,14 @@ Certifications</br>
 [![Campaign Manager 360](https://github.com/one9870/one9870/blob/badges/google-campaign-manager-360.png?raw=true)](https://skillshop.credential.net/96c20666-7d63-4b23-88bb-3d78eaf6d713#acc.B7z2OXJV)
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="ai" width="40" height="40"/>
 </p>
+
