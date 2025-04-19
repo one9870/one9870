@@ -42,7 +42,7 @@ Certifications</br>
 [![提高離線銷售量認證](https://github.com/one9870/one9870/blob/main/google-offline-sales-cert.png?raw=true)](#)
 [![Google Analytics (分析) 認證](https://github.com/one9870/one9870/blob/main/google-analytics-cert.png?raw=true)](#)
 [![Search Ads 360 認證](https://github.com/one9870/one9870/blob/main/search-ads-360-cert.png?raw=true)](#)
-[![Conversion Optimization](https://github.com/one9870/one9870/blob/main/badges/google-conversion-optimization.png?raw=true)](https://skillshop.credential.net/4d750300-9dd4-426a-8826-47c4f7a63616#acc.SXwhIDoG)
+[![Conversion Optimization](https://github.com/one9870/one9870/blob/badges/google-conversion-optimization.png?raw=true)](https://skillshop.credential.net/4d750300-9dd4-426a-8826-47c4f7a63616#acc.SXwhIDoG)
 
 [![Display & Video 360 認證測驗](https://github.com/one9870/one9870/blob/main/display-video-360-cert.png?raw=true)](#)
 [![Campaign Manager 360 認證測驗](https://github.com/one9870/one9870/blob/main/campaign-manager-360-cert.png?raw=true)](#)
