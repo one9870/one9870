@@ -31,19 +31,19 @@ Certifications</br>
 
 <!-- Google 認證 -->
 ![Google](https://img.shields.io/badge/Google-Certified-4285F4?style=for-the-badge&logo=google)</br>
-[![AI 技術輔助購物廣告認證](https://github.com/one9870/one9870/blob/main/google-shopping-ads-cert.png?raw=true)](https://skillshop.credential.net/60399198-2af1-4b3f-864a-10072d236670#acc.tB9gleQU)
-[![AI 技術輔助高效廣告認證](https://github.com/one9870/one9870/blob/main/google-effective-ads-cert.png?raw=true)](https://skillshop.credential.net/01bd26b5-656b-4f2a-b0c7-e59f5c8c6a3a#acc.xpDTWV2g)
-[![Google Ads 廣告素材認證](https://github.com/one9870/one9870/blob/main/google-creative-ads-cert.png?raw=true)](https://skillshop.credential.net/d7b02e42-1f62-4b30-ac32-d4f90b574569#acc.SgCGblni)
-[![Google Ads 多媒體廣告認證](https://github.com/one9870/one9870/blob/main/google-display-ads-cert.png?raw=true)](https://skillshop.credential.net/6773592f-17a2-443d-87ec-7389fa5bcd46#acc.2JYQOwEb)
-[![Google Ads 評估認證](https://github.com/one9870/one9870/blob/main/google-measurement-cert.png?raw=true)](https://skillshop.credential.net/7abb90b4-00b1-44df-b073-606fada4ddfb#acc.sXuVZlcQ)
-[![Google Ads 搜尋廣告認證](https://github.com/one9870/one9870/blob/main/google-search-ads-cert.png?raw=true)](https://skillshop.credential.net/637af275-5a00-4e63-aaa1-c1b611b24e4d#acc.ThQsUHuj)
-[![Google Ads 影片廣告認證](https://github.com/one9870/one9870/blob/main/google-video-ads-cert.png?raw=true)](https://skillshop.credential.net/7f5f9e64-a954-4fc9-ba8f-c2c8533c2e9a#acc.BVsqKLAN)
-[![Google Ads 應用程式廣告認證](https://github.com/one9870/one9870/blob/main/google-app-ads-cert.png?raw=true)](https://skillshop.credential.net/6fa91048-dc4c-4087-a613-65e1b1835198#acc.3MTXSWdl)
-[![提高離線銷售量認證](https://github.com/one9870/one9870/blob/main/google-offline-sales-cert.png?raw=true)](https://skillshop.credential.net/fe1db3c8-84dc-433d-9321-1bca074ded63#acc.ohM3rRKl)
-[![Google Analytics 4](https://github.com/one9870/one9870/blob/main/google-analytics.png?raw=true)](https://skillshop.credential.net/a3e5c124-4e0d-485f-8fc8-cde55d9dfc21#acc.0R6xJkbo)
-[![Search Ads 360](https://github.com/one9870/one9870/blob/main/search-ads-360-cert.png?raw=true)](https://skillshop.credential.net/6671e42f-95cf-4574-83f1-bb6616aa5804#acc.clJOYiBS)
+[![AI 技術輔助購物廣告認證](https://github.com/one9870/one9870/blob/badges/google-shopping-ads.png?raw=true)](https://skillshop.credential.net/60399198-2af1-4b3f-864a-10072d236670#acc.tB9gleQU)
+[![AI 技術輔助高效廣告認證](https://github.com/one9870/one9870/blob/badges/google-ads-ai-powered-performance.png?raw=true)](https://skillshop.credential.net/01bd26b5-656b-4f2a-b0c7-e59f5c8c6a3a#acc.xpDTWV2g)
+[![Google Ads 廣告素材認證](https://github.com/one9870/one9870/blob/badges/google-ads-creative.png?raw=true)](https://skillshop.credential.net/d7b02e42-1f62-4b30-ac32-d4f90b574569#acc.SgCGblni)
+[![Google Ads 多媒體廣告認證](https://github.com/one9870/one9870/blob/badges/google-shopping-ads.png?raw=true)](https://skillshop.credential.net/6773592f-17a2-443d-87ec-7389fa5bcd46#acc.2JYQOwEb)
+[![Google Ads 評估認證](https://github.com/one9870/one9870/blob/badges/google-ads-measurement.png?raw=true)](https://skillshop.credential.net/7abb90b4-00b1-44df-b073-606fada4ddfb#acc.sXuVZlcQ)
+[![Google Ads 搜尋廣告認證](https://github.com/one9870/one9870/blob/badges/google-ads-search.png?raw=true)](https://skillshop.credential.net/637af275-5a00-4e63-aaa1-c1b611b24e4d#acc.ThQsUHuj)
+[![Google Ads 影片廣告認證](https://github.com/one9870/one9870/blob/badges/google-ads-video.png?raw=true)](https://skillshop.credential.net/7f5f9e64-a954-4fc9-ba8f-c2c8533c2e9a#acc.BVsqKLAN)
+[![Google Ads 應用程式廣告認證](https://github.com/one9870/one9870/blob/badges/google-ads-apps.png?raw=true)](https://skillshop.credential.net/6fa91048-dc4c-4087-a613-65e1b1835198#acc.3MTXSWdl)
+[![提高離線銷售量認證](https://github.com/one9870/one9870/blob/badges/google-grow-offline-sales.png?raw=true)](https://skillshop.credential.net/fe1db3c8-84dc-433d-9321-1bca074ded63#acc.ohM3rRKl)
+[![Google Analytics 4](https://github.com/one9870/one9870/blob/badges/google-analytics.png?raw=true)](https://skillshop.credential.net/a3e5c124-4e0d-485f-8fc8-cde55d9dfc21#acc.0R6xJkbo)
+[![Search Ads 360](https://github.com/one9870/one9870/blob/badges/google-search-ads-360.png?raw=true)](https://skillshop.credential.net/6671e42f-95cf-4574-83f1-bb6616aa5804#acc.clJOYiBS)
 [![Conversion Optimization](https://github.com/one9870/one9870/blob/badges/google-conversion-optimization.png?raw=true)](https://skillshop.credential.net/4d750300-9dd4-426a-8826-47c4f7a63616#acc.SXwhIDoG)
-[![Display & Video 360](https://github.com/one9870/one9870/blob/main/google-display&video-360.png?raw=true)](https://skillshop.credential.net/933a5fdf-6302-40ee-8223-d6a9b380a394#acc.Roun9htx)
+[![Display & Video 360](https://github.com/one9870/one9870/blob/main/google-diplay&video-360.png?raw=true)](https://skillshop.credential.net/933a5fdf-6302-40ee-8223-d6a9b380a394#acc.Roun9htx)
 [![Campaign Manager 360](https://github.com/one9870/one9870/blob/main/google-campaign-manager-360.png?raw=true)](https://skillshop.credential.net/96c20666-7d63-4b23-88bb-3d78eaf6d713#acc.B7z2OXJV)
 
 <p align="left">
