@@ -22,7 +22,7 @@
 🤖 AI CUP 2024 Competition Data Management</br>
 🛡️ Security Operations Enhancement Projects</br>
 
-Certifications</br>
+### Certifications
 ![AWS](https://img.shields.io/badge/AWS-Certified-232F3E?style=for-the-badge&logo=amazon-aws)</br>
 [![AWS Certification](https://github.com/one9870/one9870/blob/badges/aws-certified-ai-practitioner.png?raw=true)](https://www.credly.com/badges/bb8a9f96-2643-49ad-a7ad-d4319191e1c5/public_url)
 [![AWS Certification](https://github.com/one9870/one9870/blob/main/aws-certified-ai-practitioner-early-adopter.png?raw=true)](https://www.credly.com/badges/cdffde06-7a7c-45ca-847a-8cfe03935d64/public_url)
