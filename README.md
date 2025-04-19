@@ -29,6 +29,23 @@ Certifications</br>
 [![Microsoft Azure AI Fundamentals](https://github.com/one9870/one9870/blob/main/microsoft-certified-azure-ai-fundamentals.png?raw=true)](https://www.credly.com/badges/80dcec5c-d2cf-444b-9306-27dab14a7bde/public_url)
 
 
+<!-- Google 認證 -->
+![Google](https://img.shields.io/badge/Google-Certified-4285F4?style=for-the-badge&logo=google)</br>
+[![AI 技術輔助購物廣告認證](https://github.com/one9870/one9870/blob/main/google-shopping-ads-cert.png?raw=true)](#)
+[![AI 技術輔助高效廣告認證](https://github.com/one9870/one9870/blob/main/google-effective-ads-cert.png?raw=true)](#)
+[![Google Ads 廣告素材認證](https://github.com/one9870/one9870/blob/main/google-creative-ads-cert.png?raw=true)](#)
+[![Google Ads 多媒體廣告認證](https://github.com/one9870/one9870/blob/main/google-display-ads-cert.png?raw=true)](#)
+[![Google Ads 評估認證](https://github.com/one9870/one9870/blob/main/google-measurement-cert.png?raw=true)](#)
+[![Google Ads 搜尋廣告認證](https://github.com/one9870/one9870/blob/main/google-search-ads-cert.png?raw=true)](#)
+[![Google Ads 影片廣告認證](https://github.com/one9870/one9870/blob/main/google-video-ads-cert.png?raw=true)](#)
+[![Google Ads 應用程式廣告認證](https://github.com/one9870/one9870/blob/main/google-app-ads-cert.png?raw=true)](#)
+[![提高離線銷售量認證](https://github.com/one9870/one9870/blob/main/google-offline-sales-cert.png?raw=true)](#)
+[![Google Analytics (分析) 認證](https://github.com/one9870/one9870/blob/main/google-analytics-cert.png?raw=true)](#)
+[![Search Ads 360 認證](https://github.com/one9870/one9870/blob/main/search-ads-360-cert.png?raw=true)](#)
+[![轉換最佳化認證測驗](https://github.com/one9870/one9870/blob/main/conversion-optimization-cert.png?raw=true)](#)
+[![Display & Video 360 認證測驗](https://github.com/one9870/one9870/blob/main/display-video-360-cert.png?raw=true)](#)
+[![Campaign Manager 360 認證測驗](https://github.com/one9870/one9870/blob/main/campaign-manager-360-cert.png?raw=true)](#)
+
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
