@@ -43,8 +43,8 @@ Certifications</br>
 [![Google Analytics 4](https://github.com/one9870/one9870/blob/badges/google-analytics.png?raw=true)](https://skillshop.credential.net/a3e5c124-4e0d-485f-8fc8-cde55d9dfc21#acc.0R6xJkbo)
 [![Search Ads 360](https://github.com/one9870/one9870/blob/badges/google-search-ads-360.png?raw=true)](https://skillshop.credential.net/6671e42f-95cf-4574-83f1-bb6616aa5804#acc.clJOYiBS)
 [![Conversion Optimization](https://github.com/one9870/one9870/blob/badges/google-conversion-optimization.png?raw=true)](https://skillshop.credential.net/4d750300-9dd4-426a-8826-47c4f7a63616#acc.SXwhIDoG)
-[![Display & Video 360](https://github.com/one9870/one9870/blob/main/google-diplay&video-360.png?raw=true)](https://skillshop.credential.net/933a5fdf-6302-40ee-8223-d6a9b380a394#acc.Roun9htx)
-[![Campaign Manager 360](https://github.com/one9870/one9870/blob/main/google-campaign-manager-360.png?raw=true)](https://skillshop.credential.net/96c20666-7d63-4b23-88bb-3d78eaf6d713#acc.B7z2OXJV)
+[![Display & Video 360](https://github.com/one9870/one9870/blob/badges/google-diplay&video-360.png?raw=true)](https://skillshop.credential.net/933a5fdf-6302-40ee-8223-d6a9b380a394#acc.Roun9htx)
+[![Campaign Manager 360](https://github.com/one9870/one9870/blob/badges/google-campaign-manager-360.png?raw=true)](https://skillshop.credential.net/96c20666-7d63-4b23-88bb-3d78eaf6d713#acc.B7z2OXJV)
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
