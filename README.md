@@ -23,15 +23,17 @@
 🛡️ Security Operations Enhancement Projects</br>
 
 ### Certifications
+<!-- AWS認證 -->
 ![AWS](https://img.shields.io/badge/AWS-Certified-232F3E?style=for-the-badge&logo=amazon-aws)</br>
 [![AWS Certification](https://github.com/one9870/one9870/blob/badges/aws-certified-ai-practitioner.png?raw=true)](https://www.credly.com/badges/bb8a9f96-2643-49ad-a7ad-d4319191e1c5/public_url)
 [![AWS Certification](https://github.com/one9870/one9870/blob/main/aws-certified-ai-practitioner-early-adopter.png?raw=true)](https://www.credly.com/badges/cdffde06-7a7c-45ca-847a-8cfe03935d64/public_url)
 
+<!-- Microsoft認證 -->
 ![Microsoft](https://img.shields.io/badge/Microsoft-Certified-00A4EF?style=for-the-badge&logo=microsoft)</br>
 [![Microsoft Azure AI Fundamentals](https://github.com/one9870/one9870/blob/main/microsoft-certified-azure-ai-fundamentals.png?raw=true)](https://www.credly.com/badges/80dcec5c-d2cf-444b-9306-27dab14a7bde/public_url)
 
 
-<!-- Google 認證 -->
+<!-- Google認證 -->
 ![Google](https://img.shields.io/badge/Google-Certified-4285F4?style=for-the-badge&logo=google)</br>
 [![AI 技術輔助購物廣告認證](https://github.com/one9870/one9870/blob/badges/google-shopping-ads.png?raw=true)](https://skillshop.credential.net/60399198-2af1-4b3f-864a-10072d236670#acc.tB9gleQU)
 [![AI 技術輔助高效廣告認證](https://github.com/one9870/one9870/blob/badges/google-ads-ai-powered-performance.png?raw=true)](https://skillshop.credential.net/01bd26b5-656b-4f2a-b0c7-e59f5c8c6a3a#acc.xpDTWV2g)
@@ -59,4 +61,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="ai" width="40" height="40"/>
 </p>
-
