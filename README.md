@@ -34,7 +34,7 @@
 
 <!-- Microsoft 成就徽章 -->
 ![Microsoft Participation](https://img.shields.io/badge/Microsoft-Participation_Badge-00A4EF?style=for-the-badge&logo=microsoft)</br>
-[![Microsoft AI Bootcamp Platinum Attendee](https://github.com/one9870/one9870/blob/main/badges/BizAppsBadge-Platinum.png?raw=true)](#)
+[![Microsoft AI Bootcamp Platinum Attendee](https://github.com/one9870/one9870/blob/badges/BizAppsBadge-Platinum.png?raw=true)](#)
 
 
 
