@@ -28,9 +28,14 @@
 [![AWS Certification](https://github.com/one9870/one9870/blob/badges/aws-certified-ai-practitioner.png?raw=true)](https://www.credly.com/badges/bb8a9f96-2643-49ad-a7ad-d4319191e1c5/public_url)
 [![AWS Certification](https://github.com/one9870/one9870/blob/main/aws-certified-ai-practitioner-early-adopter.png?raw=true)](https://www.credly.com/badges/cdffde06-7a7c-45ca-847a-8cfe03935d64/public_url)
 
-<!-- Microsoft認證 -->
-![Microsoft](https://img.shields.io/badge/Microsoft-Certified-00A4EF?style=for-the-badge&logo=microsoft)</br>
+<!-- Microsoft 認證 -->
+![Microsoft Certified](https://img.shields.io/badge/Microsoft-Certified-00A4EF?style=for-the-badge&logo=microsoft)</br>
 [![Microsoft Azure AI Fundamentals](https://github.com/one9870/one9870/blob/main/microsoft-certified-azure-ai-fundamentals.png?raw=true)](https://www.credly.com/badges/80dcec5c-d2cf-444b-9306-27dab14a7bde/public_url)
+
+<!-- Microsoft 成就徽章 -->
+![Microsoft Participation](https://img.shields.io/badge/Microsoft-Participation_Badge-00A4EF?style=for-the-badge&logo=microsoft)</br>
+[![Microsoft AI Bootcamp Platinum Attendee](https://github.com/one9870/one9870/blob/main/badges/BizAppsBadge-Platinum.png?raw=true)](#)
+
 
 
 <!-- Google認證 -->
